@@ -1,5 +1,4 @@
 ---
-project: libmariadb
 tagline: MariaDB client library
 ---
 
